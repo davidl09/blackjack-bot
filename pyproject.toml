@@ -1,0 +1,13 @@
+[project]
+name = "rainbet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mss>=10.1.0",
+    "numpy>=2.3.5",
+    "opencv-python>=4.11.0.86",
+    "pyautogui>=0.9.54",
+    "pytesseract>=0.3.13",
+]
